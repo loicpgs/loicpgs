@@ -22,7 +22,7 @@
 ## 📚 Journal & Documentation
 
 - 🗒️ [JOURNAL.MD](https://github.com/loicpgs/JOURNAL.MD) : Suivi de mes projets, formations, lectures
-- 🧪 [STAGE-IMMERSION](https://github.com/loicpgs/STAGE-IMMERSION) : Journal de stage en entreprise Azure
+- 🧪 [STAGE-IMMERSION](https://github.com/loicpgs/STAGE-IMMERSION) : Journal de stage immersif en entreprise 
 - 📄 Tous les projets contiennent un README et de la documentation claire
 
 ---
