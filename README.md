@@ -48,4 +48,4 @@
 ---
 
 > 🚧 Profil en évolution constante. Je partage ici toutes mes expériences, réussites et apprentissages.
-EOF
+
