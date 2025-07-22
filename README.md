@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 👨‍💻 Loïc PAGES
 
 🎯 **Technicien Systèmes & Réseaux en autoformation**  
