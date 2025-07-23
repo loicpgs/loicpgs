@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1024&q=80" alt="Bannière Open Space IT" width="1024" height="256" />
-</p>
+
 
 <h1 align="center">👨‍💻 Loïc PAGES</h1>
 <p align="center">
