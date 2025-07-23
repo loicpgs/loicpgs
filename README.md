@@ -1,9 +1,28 @@
+<<<<<<< HEAD
 
 # 👨‍💻 Loïc PAGES
+=======
+<!-- Bannière (à remplacer par ta vraie bannière) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/loicpgs/loicpgs/main/assets/banner.png" alt="Bannière DevOps" />
+</p>
+>>>>>>> d51006a (Refonte du README : style site vitrine avec navigation, roadmap, stats GitHub)
 
-🎯 **Technicien Systèmes & Réseaux en autoformation**  
-🎓 Formation TSSR à venir (Décembre 2025)  
-🔧 Objectif : AdminSys / DevOps | Cloud • CI/CD • Sécurité
+<h1 align="center">👨‍💻 Loïc PAGES</h1>
+<p align="center">
+  🎯 Technicien Systèmes & Réseaux en autoformation  
+  🎓 Formation TSSR à venir (Décembre 2025)  
+  🔧 Objectif : AdminSys / DevOps | Cloud • CI/CD • Sécurité
+</p>
+
+<!-- Navigation interne -->
+<p align="center">
+  <a href="#projets-clés">Projets</a> •
+  <a href="#journal--documentation">Journal</a> •
+  <a href="#compétences-techniques">Compétences</a> •
+  <a href="#mon-parcours">Parcours</a> •
+  <a href="#contact">Contact</a>
+</p>
 
 ---
 
@@ -40,8 +59,9 @@
 
 ---
 
-## 📫 Me contacter
+## 🗺️ Mon Parcours
 
+<<<<<<< HEAD
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loïc-pages-803508360)  
 ✉️ tssr.pages@outlook.fr
 
@@ -49,3 +69,10 @@
 
 > 🚧 Profil en évolution constante. Je partage ici toutes mes expériences, réussites et apprentissages.
 
+=======
+```txt
+📅 Mai 2025   : Début autoformation Linux/Bash
+💼 Été 2025   : Stage immersion Azure
+🎓 Déc 2025   : Formation TSSR (6 mois)
+🚀 2026+      : Objectif : AdminSys ➜ DevOps ➜ AIS certifié
+>>>>>>> d51006a (Refonte du README : style site vitrine avec navigation, roadmap, stats GitHub)
