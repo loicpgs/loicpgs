@@ -8,14 +8,6 @@
   🔧 Objectif : AdminSys / DevOps | Cloud • CI/CD • Sécurité
 </p>
 
-<p align="center">
-  <a href="#projets-clés">Projets</a> •
-  <a href="#journal--documentation">Journal</a> •
-  <a href="#compétences-techniques">Compétences</a> •
-  <a href="#mon-parcours">Parcours</a> •
-  <a href="#contact">Contact</a>
-</p>
-
 ---
 
 ## 💼 Projets Clés
