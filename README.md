@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-
-# 👨‍💻 Loïc PAGES
-=======
-<!-- Bannière (à remplacer par ta vraie bannière) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/loicpgs/loicpgs/main/assets/banner.png" alt="Bannière DevOps" />
+<p align="center" style="background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); color: white; padding: 30px; border-radius: 10px;">
+  <span style="font-size: 2.5em; font-weight: bold;">👨‍💻 Loïc PAGES</span><br/>
+  <em style="font-size: 1.2em;">Technicien Systèmes & Réseaux | DevOps & Cloud | CI/CD • Sécurité</em><br/>
+  <code style="background-color: rgba(255,255,255,0.1); padding: 4px 8px; border-radius: 5px; font-size: 0.9em;">
+    Linux • Azure • Terraform • Jenkins • Python • Monitoring
+  </code>
 </p>
->>>>>>> d51006a (Refonte du README : style site vitrine avec navigation, roadmap, stats GitHub)
 
 <h1 align="center">👨‍💻 Loïc PAGES</h1>
 <p align="center">
@@ -15,7 +13,6 @@
   🔧 Objectif : AdminSys / DevOps | Cloud • CI/CD • Sécurité
 </p>
 
-<!-- Navigation interne -->
 <p align="center">
   <a href="#projets-clés">Projets</a> •
   <a href="#journal--documentation">Journal</a> •
@@ -61,18 +58,8 @@
 
 ## 🗺️ Mon Parcours
 
-<<<<<<< HEAD
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loïc-pages-803508360)  
-✉️ tssr.pages@outlook.fr
-
----
-
-> 🚧 Profil en évolution constante. Je partage ici toutes mes expériences, réussites et apprentissages.
-
-=======
 ```txt
 📅 Mai 2025   : Début autoformation Linux/Bash
 💼 Été 2025   : Stage immersion Azure
 🎓 Déc 2025   : Formation TSSR (6 mois)
 🚀 2026+      : Objectif : AdminSys ➜ DevOps ➜ AIS certifié
->>>>>>> d51006a (Refonte du README : style site vitrine avec navigation, roadmap, stats GitHub)
