@@ -1,9 +1,6 @@
-<p align="center" style="background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); color: white; padding: 30px; border-radius: 10px;">
-  <span style="font-size: 2.5em; font-weight: bold;">👨‍💻 Loïc PAGES</span><br/>
-  <em style="font-size: 1.2em;">Technicien Systèmes & Réseaux | DevOps & Cloud | CI/CD • Sécurité</em><br/>
-  <code style="background-color: rgba(255,255,255,0.1); padding: 4px 8px; border-radius: 5px; font-size: 0.9em;">
-    Linux • Azure • Terraform • Jenkins • Python • Monitoring
-  </code>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1024&q=80" alt="Bannière Open Space IT" width="1024" height="256" />
 </p>
 
 <h1 align="center">👨‍💻 Loïc PAGES</h1>
@@ -37,8 +34,8 @@
 
 ## 📚 Journal & Documentation
 
-- 🗒️ [JOURNAL.MD](https://github.com/loicpgs/JOURNAL.MD) : Suivi de mes projets, formations, lectures
-- 🧪 [STAGE-IMMERSION](https://github.com/loicpgs/Stage_Immersion_Cloud_Azure) : Journal de stage immersif en entreprise 
+- 🗒️ [JOURNAL.MD](https://github.com/loicpgs/JOURNAL.MD) : Suivi de mes projets, formations, lectures  
+- 🧪 [STAGE-IMMERSION](https://github.com/loicpgs/Stage_Immersion_Cloud_Azure) : Journal de stage immersif en entreprise  
 - 📄 Tous les projets contiennent un README et de la documentation claire
 
 ---
