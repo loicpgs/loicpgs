@@ -7,24 +7,19 @@
 <h1 align="center">👨‍💻 Loïc PAGES</h1>
 <p align="center">
   🎯 Technicien Systèmes & Réseaux en autoformation  
-  🎓 Formation TSSR à venir (Décembre 2025)  
+  🎓 Certification TSSR à venir  
   🔧 Objectif : AdminSys / DevOps | Cloud • CI/CD • Sécurité
 </p>
 
-<p align="center">
-  <a href="#projets-clés">Projets</a> •
-  <a href="#journal--documentation">Journal</a> •
-  <a href="#compétences-techniques">Compétences</a> •
-  <a href="#mon-parcours">Parcours</a> •
-  <a href="#stats-github">Stats</a> •
-  <a href="#contact">Contact</a>
-</p>
+🎯 Projet Professionnel
 
----
+Actuellement en auto-formation en Systèmes & Réseaux et automatisation depuis mai 2025, je prépare l’acquisition de compétences solides et professionnalisantes grâce à ma prochaine formation TSSR (Technicien Systèmes & Réseaux).
 
-## 💼 Projets Clés
+Mon objectif à terme est de devenir Administrateur Système avec spécialisation DevOps, capable de gérer des infrastructures IT sécurisées, automatisées et optimisées dans un environnement cloud ou on-premise.
 
-| Projet | Description |
+## 💼 Repositories Clés
+
+| Repo | Description |
 |--------|-------------|
 | 🔧 [Zabbix_Monitoring](https://github.com/loicpgs/Zabbix_Monitoring) | Supervision de serveurs avec Zabbix, VM Ubuntu, alertes et dashboard |
 | ☁️ [Azure-VM-Terraform-CI-CD](https://github.com/loicpgs/Azure-VM-Terraform-CI-CD) | Déploiement d’une VM Azure via Terraform + GitHub Actions |
@@ -60,14 +55,6 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-012456?logo=powershell&logoColor=white)
 
 
----
-
-## 🗺️ Mon Parcours
-
-📅 Mai 2025   : Début autoformation Linux/Bash
-💼 Été 2025   : Stage immersion Azure
-🎓 Déc 2025   : Formation TSSR (6 mois)
-🚀 2026+      : Objectif : AdminSys ➜ DevOps ➜ AIS certifié
 
 ## 📊 Stats GitHub
 
