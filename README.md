@@ -63,6 +63,11 @@
 
 ![Loïc's GitHub stats](https://github-readme-stats.vercel.app/api?username=loicpgs&show_icons=true&theme=radical)
 
+## 🛠️ Langages principaux
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loicpgs&layout=compact&theme=radical)
+
+
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:tssr.pages@outlook.fr)
