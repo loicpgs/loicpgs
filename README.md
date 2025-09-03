@@ -11,11 +11,12 @@
   🔧 Objectif : AdminSys / DevOps | Cloud • CI/CD • Sécurité
 </p>
 
-🎯 Projet Professionnel
+## 🏢 Projet Professionnel
 
-Actuellement en auto-formation en Systèmes & Réseaux et automatisation depuis mai 2025, je prépare l’acquisition de compétences solides et professionnalisantes grâce à ma prochaine formation TSSR (Technicien Systèmes & Réseaux).
+**Actuellement en auto-formation en Systèmes & Réseaux et automatisation depuis mai 2025, je prépare l’acquisition de compétences solides et professionnalisantes grâce à ma prochaine formation TSSR (Technicien Systèmes & Réseaux).**
 
-Mon objectif à terme est de devenir Administrateur Système avec spécialisation DevOps, capable de gérer des infrastructures IT sécurisées, automatisées et optimisées dans un environnement cloud ou on-premise.
+**Mon objectif à terme est de devenir Administrateur Système avec spécialisation DevOps, capable de gérer des infrastructures IT sécurisées, automatisées et optimisées dans un environnement cloud ou on-premise.**
+
 
 ## 💼 Repositories Clés
 
