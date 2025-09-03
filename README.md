@@ -4,14 +4,6 @@
   <img src="assets/devops-desk-profile.gif" alt="DevOps multi-écrans animé" width="600">
 </p>
 
-<p align="center" style="background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); color: white; padding: 30px; border-radius: 10px;">
-  <span style="font-size: 2.5em; font-weight: bold;">👨‍💻 Loïc PAGES</span><br/>
-  <em style="font-size: 1.2em;">Technicien Systèmes & Réseaux | DevOps & Cloud | CI/CD • Sécurité</em><br/>
-  <code style="background-color: rgba(255,255,255,0.1); padding: 4px 8px; border-radius: 5px; font-size: 0.9em;">
-    Linux • Azure • Terraform • Jenkins • Python • Monitoring
-  </code>
-</p>
-
 <h1 align="center">👨‍💻 Loïc PAGES</h1>
 <p align="center">
   🎯 Technicien Systèmes & Réseaux en autoformation  
@@ -63,7 +55,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux Server](https://img.shields.io/badge/-Linux_Server-FCC624?logo=linux&logoColor=black)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-012456?logo=powershell&logoColor=white)
@@ -73,7 +64,6 @@
 
 ## 🗺️ Mon Parcours
 
-```txt
 📅 Mai 2025   : Début autoformation Linux/Bash
 💼 Été 2025   : Stage immersion Azure
 🎓 Déc 2025   : Formation TSSR (6 mois)
