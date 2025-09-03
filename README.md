@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1024&q=80" alt="Bannière DevOps Open Space" width="1024" height="256" />
-</p>
+
 
 <p align="center">
   <img src="assets/devops-desk-profile.gif" alt="DevOps multi-écrans animé" width="600">
@@ -52,8 +50,7 @@
 
 ---
 
-## 🧰 Compétences Techniques
-
+## 🛠️ Technologies & Outils
 ![Bash](https://img.shields.io/badge/-Bash-black?logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
@@ -62,6 +59,15 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?logo=vagrant&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux Server](https://img.shields.io/badge/-Linux_Server-FCC624?logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-012456?logo=powershell&logoColor=white)
+
 
 ---
 
@@ -73,10 +79,15 @@
 🎓 Déc 2025   : Formation TSSR (6 mois)
 🚀 2026+      : Objectif : AdminSys ➜ DevOps ➜ AIS certifié
 
-📊 Stats GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=loicpgs&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loicpgs&layout=compact&theme=tokyonight" height="150"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=loicpgs&theme=tokyonight&hide_border=true" height="150"/> </p>
+## 📊 Stats GitHub
 
-📫 Contact
-<p align="center" id="contact"> <a href="https://www.linkedin.com/in/loïc-pages-803508360"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /> </a><br/> ✉️ tssr.pages@outlook.fr </p>
+![Loïc's GitHub stats](https://github-readme-stats.vercel.app/api?username=loicpgs&show_icons=true&theme=radical)
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:tssr.pages@outlook.fr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_NETWORK&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7353361099489984512)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/loicpgs)
+
 
 🚧 Profil en évolution constante. Je partage ici toutes mes expériences, réussites et apprentissages.
