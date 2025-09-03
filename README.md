@@ -6,9 +6,11 @@
 
 <h1 align="center">👨‍💻 Loïc PAGES</h1>
 <p align="center">
-  **🎯 Technicien Systèmes & Réseaux en autoformation 
-    🎓 Certification TSSR à venir 
-    🔧 Objectif : AdminSys / DevOps | Cloud • CI/CD • Sécurité**
+
+  **🎯 Technicien Systèmes & Réseaux en autoformation  
+🎓 Certification TSSR à venir  
+🔧 Objectif : AdminSys / DevOps | Cloud • CI/CD • Sécurité**
+
 </p>
 
 ## 🏢 Projet Professionnel
@@ -67,5 +69,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_NETWORK&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7353361099489984512)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/loicpgs)
 
-
-🚧** Profil en évolution constante. Je partage ici toutes mes expériences, réussites et apprentissages.**
+**🚧 Profil en évolution constante. Je partage ici toutes mes expériences, réussites et apprentissages.**
