@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="secnode.png" width="900">
+  <img src="secnode.PNG" width="900">
 </p>
