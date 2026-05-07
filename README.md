@@ -1,13 +1,13 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=System+Tech;Linux+•+Virtualization+•+Automation;Docker+•+Kubernetes+•+Monitoring;Building+modern+IT+infrastructures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=1100&lines=System+%26+Network+Tech;Linux+•+Virtualization+•+Automation;Docker+•+Kubernetes+•+Monitoring;Building+modern+IT+infrastructures" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 
-Passionate System Administrator focused on infrastructure, virtualization, containerization, monitoring and infrastructure auditing.
+Passionate System & Network Tech focused on infrastructure, virtualization, containerization, monitoring and infrastructure auditing.
 
 Currently building hands-on labs around Linux, Kubernetes, Docker, Active Directory, observability stacks and security assessment tools.
 
