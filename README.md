@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=System+Administrator;Linux+•+Virtualization+•+Automation;Docker+•+Kubernetes+•+Monitoring;Building+modern+IT+infrastructures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=System+Tech;Linux+•+Virtualization+•+Automation;Docker+•+Kubernetes+•+Monitoring;Building+modern+IT+infrastructures" alt="Typing SVG" />
 </p>
 
 ---
