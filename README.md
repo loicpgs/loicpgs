@@ -51,10 +51,10 @@ I enjoy designing resilient environments, automating deployments and improving i
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loicpgs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+## GitHub Activity Graph
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loicpgs&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loicpgs&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
