@@ -26,6 +26,19 @@ I enjoy designing resilient environments, automating deployments and improving i
 ![Linux Bastion](https://img.shields.io/badge/Linux_Bastion-222222?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Infrastructure Audit](https://img.shields.io/badge/Infrastructure_Audit-00599C?style=for-the-badge&logo=datadog&logoColor=white)
 
+### Network & Security
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-1BA0D7?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Switching](https://img.shields.io/badge/Switching-2962FF?style=for-the-badge&logo=cisco&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-0D47A1?style=for-the-badge&logo=proxmox&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-283593?style=for-the-badge&logo=wireguard&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-B71C1C?style=for-the-badge&logo=fortinet&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-1565C0?style=for-the-badge&logo=icloud&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-00897B?style=for-the-badge&logo=serverfault&logoColor=white)
+
 ### Virtualization
 
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
