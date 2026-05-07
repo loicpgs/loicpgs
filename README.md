@@ -1,7 +1,6 @@
-
-# <p align="center">
-#   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=1200&lines=System+Administrator+%7C+Linux+•+Virtualization+•+Automation;Docker+•+Kubernetes+•+Monitoring+•+Infrastructure;Building+and+monitoring+modern+IT+environments" alt="Typing SVG" />
-# </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=System+Administrator;Linux+•+Virtualization+•+Automation;Docker+•+Kubernetes+•+Monitoring;Building+modern+IT+infrastructures" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -51,17 +50,20 @@ I enjoy designing resilient environments, automating deployments and improving i
 
 ## GitHub Analytics
 
-## GitHub Activity Graph
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loicpgs&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loicpgs&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loicpgs&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=loicpgs&theme=tokyonight" alt="Most commit language" />
 </p>
 
 ---
 
 ## Current Focus
 
-- Building multi-site infrastructure labs
+- Building multi-site infrastructure labshttps://github.com/loicpgs/loicpgs/blob/main/README.md
 - Kubernetes and container orchestration
 - Linux system administration
 - Monitoring and observability stacks
@@ -72,7 +74,9 @@ I enjoy designing resilient environments, automating deployments and improving i
 
 ## GitHub Activity Graph
 
-[![Loïc's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loicpgs&theme=tokyo-night&hide_border=true)](https://github.com/loicpgs)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loicpgs&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
